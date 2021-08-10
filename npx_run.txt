@@ -1,0 +1,139 @@
+C02Z8639LVDQ:development mshaheed$ npx create-react-app ms-react-portfolio
+npx: installed 67 in 3.495s
+
+Creating a new React app in /Users/mshaheed/development/ms-react-portfolio.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts with cra-template...
+
+
+> fsevents@1.2.13 install /Users/mshaheed/development/ms-react-portfolio/node_modules/watchpack-chokidar2/node_modules/fsevents
+> node install.js
+
+(node:2099) [DEP0150] DeprecationWarning: Setting process.config is deprecated. In the future the property will be read-only.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+No receipt for 'com.apple.pkg.CLTools_Executables' found at '/'.
+
+No receipt for 'com.apple.pkg.DeveloperToolsCLILeo' found at '/'.
+
+No receipt for 'com.apple.pkg.DeveloperToolsCLI' found at '/'.
+
+gyp: No Xcode or CLT version detected!
+gyp ERR! configure error
+gyp ERR! stack Error: `gyp` failed with exit code: 1
+gyp ERR! stack     at ChildProcess.onCpExit (/usr/local/lib/node_modules/npm/node_modules/node-gyp/lib/configure.js:351:16)
+gyp ERR! stack     at ChildProcess.emit (node:events:394:28)
+gyp ERR! stack     at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+gyp ERR! System Darwin 19.6.0
+gyp ERR! command "/usr/local/Cellar/node/16.5.0/bin/node" "/usr/local/lib/node_modules/npm/node_modules/node-gyp/bin/node-gyp.js" "rebuild"
+gyp ERR! cwd /Users/mshaheed/development/ms-react-portfolio/node_modules/watchpack-chokidar2/node_modules/fsevents
+gyp ERR! node -v v16.5.0
+gyp ERR! node-gyp -v v5.1.0
+gyp ERR! not ok
+
+> fsevents@1.2.13 install /Users/mshaheed/development/ms-react-portfolio/node_modules/webpack-dev-server/node_modules/fsevents
+> node install.js
+
+(node:2125) [DEP0150] DeprecationWarning: Setting process.config is deprecated. In the future the property will be read-only.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+No receipt for 'com.apple.pkg.CLTools_Executables' found at '/'.
+
+No receipt for 'com.apple.pkg.DeveloperToolsCLILeo' found at '/'.
+
+No receipt for 'com.apple.pkg.DeveloperToolsCLI' found at '/'.
+
+gyp: No Xcode or CLT version detected!
+gyp ERR! configure error
+gyp ERR! stack Error: `gyp` failed with exit code: 1
+gyp ERR! stack     at ChildProcess.onCpExit (/usr/local/lib/node_modules/npm/node_modules/node-gyp/lib/configure.js:351:16)
+gyp ERR! stack     at ChildProcess.emit (node:events:394:28)
+gyp ERR! stack     at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+gyp ERR! System Darwin 19.6.0
+gyp ERR! command "/usr/local/Cellar/node/16.5.0/bin/node" "/usr/local/lib/node_modules/npm/node_modules/node-gyp/bin/node-gyp.js" "rebuild"
+gyp ERR! cwd /Users/mshaheed/development/ms-react-portfolio/node_modules/webpack-dev-server/node_modules/fsevents
+gyp ERR! node -v v16.5.0
+gyp ERR! node-gyp -v v5.1.0
+gyp ERR! not ok
+
+> core-js@2.6.12 postinstall /Users/mshaheed/development/ms-react-portfolio/node_modules/babel-runtime/node_modules/core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js@3.16.1 postinstall /Users/mshaheed/development/ms-react-portfolio/node_modules/core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js-pure@3.16.1 postinstall /Users/mshaheed/development/ms-react-portfolio/node_modules/core-js-pure
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> ejs@2.7.4 postinstall /Users/mshaheed/development/ms-react-portfolio/node_modules/ejs
+> node ./postinstall.js
+
++ react@17.0.2
++ react-dom@17.0.2
++ cra-template@1.1.2
++ react-scripts@4.0.3
+added 1904 packages from 715 contributors and audited 1904 packages in 58.245s
+
+147 packages are looking for funding
+  run `npm fund` for details
+
+found 3 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+Initialized a git repository.
+
+Installing template dependencies using npm...
+npm WARN @babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining@7.14.5 requires a peer of @babel/core@^7.13.0 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
++ web-vitals@1.1.2
++ @testing-library/jest-dom@5.14.1
++ @testing-library/react@11.2.7
++ @testing-library/user-event@12.8.3
+added 29 packages from 79 contributors and audited 1933 packages in 13.961s
+
+147 packages are looking for funding
+  run `npm fund` for details
+
+found 3 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+Removing template package using npm...
+
+npm WARN @babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining@7.14.5 requires a peer of @babel/core@^7.13.0 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+removed 1 package and audited 1932 packages in 8.198s
+
+147 packages are looking for funding
+  run `npm fund` for details
+
+found 3 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+Created git commit.
+
+Success! Created ms-react-portfolio at /Users/mshaheed/development/ms-react-portfolio
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd ms-react-portfolio
+  npm start
+
+Happy hacking!
+C02Z8639LVDQ:development mshaheed$
