@@ -1,25 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+// bootstrap
+import "bootstrap/dist/css/bootstrap.min.css";
+import { HashRouter as Router } from "react-router-dom";
 
-function App() {
+// css
+import "./App.css";
+
+// components
+import Navigation from "./components/Navigation";
+// import Header from "./components/Header";
+import Home from "./components/Home";
+// import Footer from "./components/Footer";
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Navigation />
+      <Switch>
+        <div className="App">
+          <Navigation />
+          <Home />
+        </div>
+      </Switch>
+    </Router>
   );
-}
+};
 
 export default App;
