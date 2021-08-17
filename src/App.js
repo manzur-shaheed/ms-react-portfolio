@@ -10,6 +10,7 @@ import "./App.css";
 // components
 import Navigation from "./components/Navigation";
 import About from "./components/About";
+import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
 import Resume from "./components/Resume";
 import Footer from "./components/Footer";
@@ -19,8 +20,14 @@ const App = () => {
     <div>
       <Router>
         <Navigation />
+        <Route path="/Home">
+          <About />
+        </Route> 
         <Route path="/About">
           <About />
+        </Route> 
+        <Route path="/Portfolio">
+          <Portfolio />
         </Route> 
         <Route path="/Contact">
           <Contact />

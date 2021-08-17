@@ -7,7 +7,7 @@ import { Card, Container, Row, Col, ListGroup } from "react-bootstrap";
 // resume pdf
 import me_resume from "../../assets/ms_2021.pdf";
 
-const About = () => {
+const Resume = () => {
   return (
     <Container className="my-3 py-3" id="Resume">
       <Card>
@@ -35,4 +35,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Resume;
