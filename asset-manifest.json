@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/ms-react-portfolio/static/css/main.a617e044.chunk.css",
+    "main.js": "/ms-react-portfolio/static/js/main.b0b7b4ad.chunk.js",
+    "main.js.map": "/ms-react-portfolio/static/js/main.b0b7b4ad.chunk.js.map",
+    "runtime-main.js": "/ms-react-portfolio/static/js/runtime-main.cb9b83c7.js",
+    "runtime-main.js.map": "/ms-react-portfolio/static/js/runtime-main.cb9b83c7.js.map",
+    "static/css/2.818011ed.chunk.css": "/ms-react-portfolio/static/css/2.818011ed.chunk.css",
+    "static/js/2.99bc6dc4.chunk.js": "/ms-react-portfolio/static/js/2.99bc6dc4.chunk.js",
+    "static/js/2.99bc6dc4.chunk.js.map": "/ms-react-portfolio/static/js/2.99bc6dc4.chunk.js.map",
+    "static/js/3.2f3aabaa.chunk.js": "/ms-react-portfolio/static/js/3.2f3aabaa.chunk.js",
+    "static/js/3.2f3aabaa.chunk.js.map": "/ms-react-portfolio/static/js/3.2f3aabaa.chunk.js.map",
+    "index.html": "/ms-react-portfolio/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/ms-react-portfolio/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/ms-react-portfolio/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.99bc6dc4.chunk.js.LICENSE.txt": "/ms-react-portfolio/static/js/2.99bc6dc4.chunk.js.LICENSE.txt",
+    "static/media/abc_crypto.07cd21d2.png": "/ms-react-portfolio/static/media/abc_crypto.07cd21d2.png",
+    "static/media/ag_search.5594163a.png": "/ms-react-portfolio/static/media/ag_search.5594163a.png",
+    "static/media/budget_tracker.36f30341.png": "/ms-react-portfolio/static/media/budget_tracker.36f30341.png",
+    "static/media/ecommerce.663bf786.png": "/ms-react-portfolio/static/media/ecommerce.663bf786.png",
+    "static/media/employee_tracker.14d65daf.png": "/ms-react-portfolio/static/media/employee_tracker.14d65daf.png",
+    "static/media/fitness_tracker.fcf63800.png": "/ms-react-portfolio/static/media/fitness_tracker.fcf63800.png",
+    "static/media/ms.c0912335.png": "/ms-react-portfolio/static/media/ms.c0912335.png",
+    "static/media/ms_2021.9cb89011.pdf": "/ms-react-portfolio/static/media/ms_2021.9cb89011.pdf",
+    "static/media/note_taker.cbcf9f3f.png": "/ms-react-portfolio/static/media/note_taker.cbcf9f3f.png",
+    "static/media/resume.31e5b56b.png": "/ms-react-portfolio/static/media/resume.31e5b56b.png",
+    "static/media/team_profile_generator.0695e69f.png": "/ms-react-portfolio/static/media/team_profile_generator.0695e69f.png",
+    "static/media/tech_blog.dd9b297b.png": "/ms-react-portfolio/static/media/tech_blog.dd9b297b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb9b83c7.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.99bc6dc4.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b0b7b4ad.chunk.js"
+  ]
+}
