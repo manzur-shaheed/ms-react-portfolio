@@ -1,5 +1,7 @@
 // bootstrap
 import "bootstrap/dist/css/bootstrap.min.css";
+
+// react router
 import { HashRouter as Router } from "react-router-dom";
 
 // css
@@ -13,15 +15,12 @@ import Home from "./components/Home";
 
 const App = () => {
   return (
-    <Router>
-      <Navigation />
-      <Switch>
-        <div className="App">
-          <Navigation />
-          <Home />
-        </div>
-      </Switch>
-    </Router>
+    <div>
+      <Router>
+        <Navigation />
+        <Home />
+      </Router>
+    </div>
   );
 };
 

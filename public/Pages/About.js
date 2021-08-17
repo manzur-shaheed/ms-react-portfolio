@@ -1,6 +1,6 @@
 // about tab
 import Container from "react-bootstrap/Container";
-import About from "../components/About";
+import About from "../components/about.js";
 
 const AboutContainer = () => {
   return (
