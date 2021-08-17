@@ -55,8 +55,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 - [Manzur Shaheed](mailto:shaheed_manzur@yahoo.com)
 ## Acknowledgements
 * **Billie Thompson** - [PurpleBooth](https://github.com/PurpleBooth) for the README Template.
-* [Bootcamp Unit 19 Homework Readme](https://columbia.bootcampcontent.com/columbia-bootcamp/cu-nyc-virt-fsf-pt-03-2021-u-c/-/tree/master/19-PWA/02-Homework).
-* [Bootcamp Unit 19 Homework mini-project](https://columbia.bootcampcontent.com/columbia-bootcamp/cu-nyc-virt-fsf-pt-03-2021-u-c/-/tree/master/19-PWA/01-Activities/23-Stu-Mini-Project/_Solved).
+* [Bootcamp Unit 20 Homework Readme](https://columbia.bootcampcontent.com/columbia-bootcamp/cu-nyc-virt-fsf-pt-03-2021-u-c/-/tree/master/20-React/02-Homework).
+
 
 
 
