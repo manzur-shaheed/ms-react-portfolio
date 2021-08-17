@@ -8,8 +8,8 @@ export default function Home() {
   return (
     <div>
       <About />
-      {/* <Projects />
-      <ContactForm /> */}
+      {/* <Projects /> */}
+      {/* <ContactForm /> */}
     </div>
   );
 }
