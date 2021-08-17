@@ -20,6 +20,9 @@ const App = () => {
     <div>
       <Router>
         <Navigation />
+        <Route exact path="/">
+          <About />
+        </Route> 
         <Route path="/Home">
           <About />
         </Route> 
